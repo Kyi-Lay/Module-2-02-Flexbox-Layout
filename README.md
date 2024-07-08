@@ -17,6 +17,6 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Kyi-Lay/Module-2-02-Flexbox-Layout.git
 
    2024. Make With Love.
